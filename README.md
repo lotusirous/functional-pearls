@@ -1,2 +1,1 @@
-# functional-pearls
-A functional pearl in ocaml
+# Pearls of Functional Algorithm Design by Richard Bird
